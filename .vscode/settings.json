@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    ".DS_Store": true,
+    ".dart_tool": true,
+    ".gitignore": true,
+    ".idea": true,
+    ".metadata": true,
+    "README.md": true,
+    "analysis_options.yaml": true,
+    "build": true,
+    "linux": true,
+    "machine_test.iml": true,
+    "macos": true,
+    "pubspec.lock": true,
+    "test": true,
+    "web": true,
+    "windows": true,
+    ".vscode": true
+  }
+}
